@@ -13,15 +13,15 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cipher
-build_property.ProjectDir = C:\Users\natal\Excalibur-4.0\Cipher\
+build_property.ProjectDir = C:\Users\Bea.DESKTOP-BS46BIT\source\repos\Excalibur-4.0\Cipher\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/natal/Excalibur-4.0/Cipher/App.axaml]
+[C:/Users/Bea.DESKTOP-BS46BIT/source/repos/Excalibur-4.0/Cipher/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/natal/Excalibur-4.0/Cipher/Views/MainWindow.axaml]
+[C:/Users/Bea.DESKTOP-BS46BIT/source/repos/Excalibur-4.0/Cipher/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/natal/Excalibur-4.0/Cipher/View/CipherView.axaml]
+[C:/Users/Bea.DESKTOP-BS46BIT/source/repos/Excalibur-4.0/Cipher/View/CipherView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

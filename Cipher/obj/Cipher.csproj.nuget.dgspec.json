@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natal\\Excalibur-4.0\\Cipher\\Cipher.csproj": {}
+    "C:\\Users\\Bea.DESKTOP-BS46BIT\\source\\repos\\Excalibur-4.0\\Cipher\\Cipher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natal\\Excalibur-4.0\\Cipher\\Cipher.csproj": {
+    "C:\\Users\\Bea.DESKTOP-BS46BIT\\source\\repos\\Excalibur-4.0\\Cipher\\Cipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natal\\Excalibur-4.0\\Cipher\\Cipher.csproj",
+        "projectUniqueName": "C:\\Users\\Bea.DESKTOP-BS46BIT\\source\\repos\\Excalibur-4.0\\Cipher\\Cipher.csproj",
         "projectName": "Cipher",
-        "projectPath": "C:\\Users\\natal\\Excalibur-4.0\\Cipher\\Cipher.csproj",
-        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natal\\Excalibur-4.0\\Cipher\\obj\\",
+        "projectPath": "C:\\Users\\Bea.DESKTOP-BS46BIT\\source\\repos\\Excalibur-4.0\\Cipher\\Cipher.csproj",
+        "packagesPath": "C:\\Users\\Bea.DESKTOP-BS46BIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bea.DESKTOP-BS46BIT\\source\\repos\\Excalibur-4.0\\Cipher\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Bea.DESKTOP-BS46BIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

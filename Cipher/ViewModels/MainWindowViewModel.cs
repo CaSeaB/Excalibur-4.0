@@ -1,8 +1,11 @@
-﻿namespace Cipher.ViewModels;
+﻿using SkiaSharp;
+
+namespace Cipher.ViewModels;
 
 public class MainWindowViewModel : ViewModelBase
 {
-#pragma warning disable CA1822 // Mark members as static
-    public string Greeting => "Welcome to Avalonia!";
-#pragma warning restore CA1822 // Mark members as static
+    public string DecriptedAtBash => "Decripted message will appear here.";
+    public string EncriptedAtBash => "Encriptor message will appear here.";
+
+    
 }

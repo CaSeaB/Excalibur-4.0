@@ -15,6 +15,26 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+	<TabControl Margin="5">
+		<TabItem Header="AtBash">
+			<StackPanel Margin="20">
+				<TextBlock Margin="0 5" >Decriptor:</TextBlock>
+				<TextBox Watermark="Enter encripted message..."/>
+				<TextBlock Text="{Binding DecriptedAtBash}" Margin="0 5" ></TextBlock>
+				<TextBlock Margin="0 5" >Encriptor:</TextBlock>
+				<TextBox Watermark="Enter decripted message..."/>
+				<TextBlock Text="{Binding EncriptedAtBash}" Margin="0 5" ></TextBlock>
+			</StackPanel>
+		</TabItem>
+		<TabItem Header="Caesar">
+			<TextBlock Margin="5">--</TextBlock>
+		</TabItem>
+		<TabItem Header="PlayFair">
+			<TextBlock Margin="5">---</TextBlock>
+		</TabItem>
+		<TabItem Header="DoubleTransmission">
+			<TextBlock Margin="5">----</TextBlock>
+		</TabItem>
+	</TabControl>
 
 </Window>
