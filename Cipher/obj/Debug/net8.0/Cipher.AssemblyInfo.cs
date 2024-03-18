@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cipher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef06d954f7d7c77a1ffeb32caf6212af88f7b0ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cipher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cipher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
